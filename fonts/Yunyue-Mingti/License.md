@@ -1,15 +1,15 @@
 Copyright (c) 2024, iucaside1024.
 
-Copyright (c) 2018-2020, But (https://github.com/ButTaiwan/genwan-font),
+Copyright (c) 2018-2020, But (`https://github.com/ButTaiwan/genwan-font`),
 with Reserved Font Name 'Genwan'.
 
-Copyright (c) 2018, おたもん(o_tamon) (https://okoneya.jp/font/),
+Copyright (c) 2018, おたもん(o_tamon) (`https://okoneya.jp/font/`),
 with Reserved Font Name 'Satsuki Gendai'.
-Copyright (c) 2014, 2015 Adobe Systems Incorporated (http://www.adobe.com/),
+Copyright (c) 2014, 2015 Adobe Systems Incorporated (`http://www.adobe.com/`),
 with Reserved Font Name 'Source'.
 Copyright (c) 2008-2011, Gutenberg Labo.
 Copyright (c) 2012-2016, Ryusei Yamaguchi.
-Copyright (c) 2010-2013, Georg Duffner (http://www.georgduffner.at)
+Copyright (c) 2010-2013, Georg Duffner (`http://www.georgduffner.at`)
  
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
